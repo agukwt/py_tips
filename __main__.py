@@ -1,8 +1,9 @@
-from .src import *
+from src.setting_with_copy_warning import exam
 
 
 def call():
-    pass
+    df = exam()
+    print(df)
 
 
 if __name__ == '__main__':
