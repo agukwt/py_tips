@@ -1,3 +1,4 @@
 # Ignore .idea-contents
 .idea/**
 private
+__main__.py
