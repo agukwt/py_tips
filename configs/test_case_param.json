@@ -1,5 +1,5 @@
 {
-  "test": [{"id": 101, "col_01": "column01"},
-           {"id": 102, "col_02": "column01"}
+  "test": [{"id": 101, "col_01_nm": "column01"},
+           {"id": 102, "col_01_nm": "column01"}
           ]
 }
