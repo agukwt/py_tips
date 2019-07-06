@@ -1,9 +1,10 @@
-from src.setting_with_copy_warning import exam
+from src import setting_with_copy_warning
+from src import config
 
 
 def call():
-    df = exam()
-    print(df)
+    # obj = xxx.mmain()
+    pass
 
 
 if __name__ == '__main__':

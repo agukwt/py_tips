@@ -1,7 +1,7 @@
 import pandas as pd
 
 
-def exam():
+def main():
     df = pd.DataFrame({'id': [1, 2, 3], 'cost': [30, 25, 20]}, index=['01', '02', '03'])
 
     boolean01_flag = df['id'] > 1
